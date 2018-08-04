@@ -17,7 +17,7 @@ header{
     height: 90px;
     margin: 0 auto;
     background-color: #ffffff;
-    z-index: 2;
+    /* z-index: 2; */
 
  
  
@@ -173,7 +173,7 @@ input[type=submit] {
     padding: 20px;
     width: 960px;
     /* left: 50%; */
-    margin-left: 100px;
+    margin-left: 175px;
     /* mess with the margin to get it centered. */
 }
 
